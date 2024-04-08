@@ -1,0 +1,36 @@
+*{
+    color: #DDDDDD;
+    font-size: 20px;
+}
+body{
+    background-image: url("imagenes/fondo-pared-ladrillo-oscuro-abstracto-diseno-creativo-su-sitio-web_518299-623.avif");
+    background-size: cover;
+}
+
+h1{
+    color: #F5CD39;
+    font-family: "Caveat";
+    font-weight: 700;
+    font-size: 150px;
+    text-align: center;
+}
+
+h2{
+    color: #F5CD39;
+    font-family: "Caveat";
+    font-weight: 700;
+    font-size: 80px;
+    text-align: left;
+    display: inline;
+}
+
+img{
+    width: 350px;
+    height: auto;
+    text-align: center;
+}
+
+#div-parrafo{
+    margin-left: auto;
+
+}
